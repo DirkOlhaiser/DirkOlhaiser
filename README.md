@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 You can view my portfolio website by visiting the following URL:
 
-[https://DirkOlhaiser.github.io/dirkolhaiser](https://dirkolhaiser.github.io/dirkolhaiser)
+[https://DirkOlhaiser.github.io/DirkOlhaiser](https://dirkolhaiser.github.io/DirkOlhaiser)
 
 ## Content
 
@@ -51,19 +51,3 @@ This project is licensed under the MIT License.
 ---
 
 Created with ❤️ by [Dirk Olhaiser](https://github.com/DirkOlhaiser)
-
-
-<!--
-**DirkOlhaiser/DirkOlhaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
